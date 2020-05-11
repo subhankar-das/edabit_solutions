@@ -13,6 +13,5 @@ function decode(str) {
 		}
 		resultArr.push(sum)
 	})
-	
 	return resultArr;
 }
