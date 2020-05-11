@@ -12,6 +12,6 @@ function decode(str) {
     	asciiVal = Math.floor(asciiVal / 10);
 		}
 		resultArr.push(sum)
-	})
+	});
 	return resultArr;
 }
